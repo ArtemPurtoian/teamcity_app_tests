@@ -7,4 +7,4 @@ def test_2():
 
 
 def test_3():
-    assert 0 is False
+    assert 0 == False
